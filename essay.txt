@@ -1,1 +1,2 @@
 Welcome to git, its very important!
+Its fun to learn.
